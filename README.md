@@ -48,11 +48,27 @@ PAYMENT_KEY=your_payment_key
 📂 Folder Structure
 HomelyHub/
 ├── Backend/
+│   ├── node_modules/
 │   ├── src/
-│   └── .env
+│   ├── .env
+│   ├── package.json
+│   └── package-lock.json
+│
 ├── Frontend/
-│   ├── src/
+│   ├── node_modules/
 │   ├── public/
-│   └── vite.config.js
+│   │   └── assets/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── store/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── vite.config.js
+│   └── package.json
+│
 └── README.md
+
+
 
