@@ -1,0 +1,18 @@
+/* p{
+    background-color: rgb(250, 206, 28);
+}
+body{
+    background-color: skyblue
+} */
+
+.welcome{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+#secomd{
+    color:pink
+}
